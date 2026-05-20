@@ -17,7 +17,7 @@ After cloning the repository, compress the plugin folder into a `.zip` archive.
 Example:
 
 ```bash
-your-plugin.zip
+secure-documents-plugin.zip
 ```
 
 ### 3. Upload the Plugin to WordPress
